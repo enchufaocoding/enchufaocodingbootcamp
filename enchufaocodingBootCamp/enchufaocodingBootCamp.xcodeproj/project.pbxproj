@@ -11,6 +11,7 @@
 		2DAEFA972C9781CF00749D94 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DAEFA962C9781CF00749D94 /* ContentView.swift */; };
 		2DAEFA992C9781D000749D94 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2DAEFA982C9781D000749D94 /* Assets.xcassets */; };
 		2DAEFA9C2C9781D000749D94 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2DAEFA9B2C9781D000749D94 /* Preview Assets.xcassets */; };
+		2DAEFAA32C97820200749D94 /* TextBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DAEFAA22C97820200749D94 /* TextBootCamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		2DAEFA962C9781CF00749D94 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		2DAEFA982C9781D000749D94 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2DAEFA9B2C9781D000749D94 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		2DAEFAA22C97820200749D94 /* TextBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextBootCamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +54,7 @@
 			isa = PBXGroup;
 			children = (
 				2DAEFA942C9781CF00749D94 /* enchufaocodingBootCampApp.swift */,
+				2DAEFAA22C97820200749D94 /* TextBootCamp.swift */,
 				2DAEFA962C9781CF00749D94 /* ContentView.swift */,
 				2DAEFA982C9781D000749D94 /* Assets.xcassets */,
 				2DAEFA9A2C9781D000749D94 /* Preview Content */,
@@ -139,6 +142,7 @@
 			files = (
 				2DAEFA972C9781CF00749D94 /* ContentView.swift in Sources */,
 				2DAEFA952C9781CF00749D94 /* enchufaocodingBootCampApp.swift in Sources */,
+				2DAEFAA32C97820200749D94 /* TextBootCamp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
