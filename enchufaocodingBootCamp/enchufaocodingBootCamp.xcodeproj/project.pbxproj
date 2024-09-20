@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		2D04F32A2C9E0232004F1797 /* ColorsBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D04F3292C9E0232004F1797 /* ColorsBootCamp.swift */; };
 		2D04F32C2C9E0999004F1797 /* GradientBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D04F32B2C9E0999004F1797 /* GradientBootCamp.swift */; };
+		2D04F32E2C9E0F8D004F1797 /* IconsBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D04F32D2C9E0F8D004F1797 /* IconsBootCamp.swift */; };
 		2D749C9C2C98C0D1005CD9F3 /* ShapeBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D749C9B2C98C0B0005CD9F3 /* ShapeBootCamp.swift */; };
 		2DAEFA952C9781CF00749D94 /* enchufaocodingBootCampApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DAEFA942C9781CF00749D94 /* enchufaocodingBootCampApp.swift */; };
 		2DAEFA972C9781CF00749D94 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DAEFA962C9781CF00749D94 /* ContentView.swift */; };
@@ -20,6 +21,7 @@
 /* Begin PBXFileReference section */
 		2D04F3292C9E0232004F1797 /* ColorsBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorsBootCamp.swift; sourceTree = "<group>"; };
 		2D04F32B2C9E0999004F1797 /* GradientBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientBootCamp.swift; sourceTree = "<group>"; };
+		2D04F32D2C9E0F8D004F1797 /* IconsBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IconsBootCamp.swift; sourceTree = "<group>"; };
 		2D749C9B2C98C0B0005CD9F3 /* ShapeBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapeBootCamp.swift; sourceTree = "<group>"; };
 		2DAEFA912C9781CF00749D94 /* enchufaocodingBootCamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = enchufaocodingBootCamp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2DAEFA942C9781CF00749D94 /* enchufaocodingBootCampApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = enchufaocodingBootCampApp.swift; sourceTree = "<group>"; };
@@ -65,6 +67,7 @@
 				2D749C9B2C98C0B0005CD9F3 /* ShapeBootCamp.swift */,
 				2D04F3292C9E0232004F1797 /* ColorsBootCamp.swift */,
 				2D04F32B2C9E0999004F1797 /* GradientBootCamp.swift */,
+				2D04F32D2C9E0F8D004F1797 /* IconsBootCamp.swift */,
 				2DAEFA982C9781D000749D94 /* Assets.xcassets */,
 				2DAEFA9A2C9781D000749D94 /* Preview Content */,
 			);
@@ -149,6 +152,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2D04F32E2C9E0F8D004F1797 /* IconsBootCamp.swift in Sources */,
 				2D04F32A2C9E0232004F1797 /* ColorsBootCamp.swift in Sources */,
 				2D749C9C2C98C0D1005CD9F3 /* ShapeBootCamp.swift in Sources */,
 				2DAEFA972C9781CF00749D94 /* ContentView.swift in Sources */,
